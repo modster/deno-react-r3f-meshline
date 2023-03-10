@@ -1,0 +1,25 @@
+{
+  "imports": {
+    "@vitejs/plugin-react": "https://esm.sh/v111/*@vitejs/plugin-react@3.1.0",
+    "react-dom/client": "https://esm.sh/v111/*react-dom@18.2.0/client",
+    "react": "https://esm.sh/v111/react@18.2.0",
+    "react/": "https://esm.sh/v111/react@18.2.0/",
+    "vite": "https://esm.sh/v111/*vite@4.1.4",
+    "vite/": "https://esm.sh/v111/*vite@4.1.4/"
+  },
+  "scopes": {
+    "https://esm.sh/v111/": {
+      "@babel/core": "https://esm.sh/v111/@babel/core@7.21.0",
+      "@babel/plugin-transform-react-jsx-self": "https://esm.sh/v111/@babel/plugin-transform-react-jsx-self@7.21.0",
+      "@babel/plugin-transform-react-jsx-source": "https://esm.sh/v111/@babel/plugin-transform-react-jsx-source@7.19.6",
+      "esbuild": "https://esm.sh/v111/esbuild@0.16.17",
+      "loose-envify": "https://esm.sh/v111/loose-envify@1.4.0",
+      "magic-string": "https://esm.sh/v111/magic-string@0.27.0",
+      "postcss": "https://esm.sh/v111/postcss@8.4.21",
+      "react-refresh": "https://esm.sh/v111/react-refresh@0.14.0",
+      "resolve": "https://esm.sh/v111/resolve@1.22.1",
+      "rollup": "https://esm.sh/v111/rollup@3.19.1",
+      "scheduler": "https://esm.sh/v111/scheduler@0.23.0"
+    }
+  }
+}
